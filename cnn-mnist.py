@@ -7,6 +7,10 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import classification_report
 import random
 
+# Print my information
+print("Project made for School")
+print("shoek001@odu.edu")
+
 # Set random seed for reproducibility, we picked 42 as it a great number
 torch.manual_seed(42)
 
