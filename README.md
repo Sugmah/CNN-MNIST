@@ -10,7 +10,7 @@ This repository contains the implementation of a CNN for classifying handwritten
   - Max Pooling for spatial dimension reduction
   - Fully Connected Layers with Dropout for regularization
 - **Training**:
-  - Adam optimizer with a learning rate of 0.001
+  - Optimizer with a learning rate of 0.001
   - Cross-entropy loss function
   - Batch size: 256
   - 10 epochs
